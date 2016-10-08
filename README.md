@@ -1,4 +1,4 @@
-##Main:
+###Main:
 
 Name: Pavel  
 
@@ -6,7 +6,7 @@ Family name: Autushka
 
 Marital status: merried
 
-##Education:
+###Education:
 
 Educational establishment: BNTU  
 
@@ -17,7 +17,7 @@ Department: Hydraulic Engineering and Power Plant Construction
 Graduation years: 2009(hydraulic engineer), 2011(master degree), 2015(PhD degree)  
 
 
-##Work experience:  
+###Work experience:  
 
 Company name: RUE"Belnipienergoprom"  
 
